@@ -1,8 +1,13 @@
-<br>**1. porsche.html** 
-I downloaded the html file of the webpage from 'https://www.porsche.com/pap/_philippines_/models/' so that I can put it here on github and my code on google colab can download it.<br>
-**2. avelino_text_scraper_porsche.ipnyb**
+### 📂 Project Files
 
-This is my code downloaded from google colabs, here's the link to google colab 'https://colab.research.google.com/drive/14g-W4UXbXk2XQfx_I2NCIFUShVeyI5Wr?usp=sharing'  
-**3 porsche_data_cleaned.csv**
-The csv file porsche_data_cleaned.csv file contains five (5) different pieces of information with 89 entires each.
+* **1. porsche.html**  
+  Downloaded HTML file from the official [Porsche Philippines Models Page](https://www.porsche.com/pap/_philippines_/models/).  
+  Hosted here on GitHub so it can be directly downloaded and processed by Google Colab.
 
+* **2. avelino_text_scraper_porsche.ipynb**  
+  The Python scraping script downloaded from Google Colab.  
+  You can view or run the live notebook via [this Google Colab Link](https://colab.research.google.com/drive/14g-W4UXbXk2XQfx_I2NCIFUShVeyI5Wr?usp=sharing).
+
+* **3. porsche_data_cleaned.csv**  
+  The final cleaned dataset containing 89 entries.  
+  Each entry includes five (5) distinct columns/pieces of information extracted from the webpage.
