@@ -1,0 +1,89 @@
+Model,0-100 km/h (s),Top Speed (km/h),Power (kW),Power (PS)
+718 Cayman,4.9,275.0,220.0,300.0
+718 Cayman Style Edition,4.9,275.0,220.0,300.0
+718 Cayman S,4.4,285.0,257.0,350.0
+718 Cayman GTS 4.0,4.0,288.0,294.0,400.0
+718 Boxster,4.9,275.0,220.0,300.0
+718 Boxster Style Edition,4.9,275.0,220.0,300.0
+718 Boxster S,4.4,285.0,257.0,350.0
+718 Boxster GTS 4.0,4.0,288.0,294.0,400.0
+718 Spyder RS,3.4,308.0,368.0,500.0
+718 Cayman GT4 RS,3.4,315.0,368.0,500.0
+911 Carrera,4.1,294.0,290.0,394.0
+911 Carrera T,4.5,295.0,290.0,394.0
+911 Carrera S,3.5,308.0,353.0,480.0
+911 Carrera 4S,3.5,308.0,353.0,480.0
+911 Carrera GTS,3.0,312.0,398.0,541.0
+911 Carrera 4 GTS,3.0,312.0,398.0,541.0
+911 Carrera Cabriolet,4.3,291.0,290.0,394.0
+911 Carrera T Cabriolet,4.7,293.0,290.0,394.0
+911 Carrera S Cabriolet,3.7,308.0,353.0,480.0
+911 Carrera 4S Cabriolet,3.7,308.0,353.0,480.0
+911 Carrera GTS Cabriolet,3.1,312.0,398.0,541.0
+911 Carrera 4 GTS Cabriolet,3.1,312.0,398.0,541.0
+911 Targa 4S,3.7,308.0,353.0,480.0
+911 Targa 4 GTS,3.1,312.0,398.0,541.0
+911 GT3,3.4,311.0,375.0,510.0
+911 GT3 with Touring Package,3.9,313.0,375.0,510.0
+911 GT3 RS,3.2,296.0,386.0,525.0
+911 Spirit 70,3.1,312.0,398.0,541.0
+911 Turbo 50 Years,2.7,330.0,478.0,650.0
+911 Turbo S,2.5,322.0,523.0,711.0
+911 GT3 S/C,3.9,313.0,375.0,510.0
+911 Turbo S Cabriolet,2.6,322.0,523.0,711.0
+911 GT3 90 F. A. Porsche,3.9,313.0,375.0,510.0
+Taycan,4.8,230.0,300.0,408.0
+Taycan 4,4.6,230.0,300.0,408.0
+Taycan Black Edition,4.8,230.0,320.0,435.0
+Taycan 4 Black Edition,4.6,230.0,320.0,435.0
+Taycan 4S,3.7,250.0,400.0,544.0
+Taycan 4S Black Edition,3.7,250.0,440.0,598.0
+Taycan GTS,3.3,250.0,515.0,700.0
+Taycan Turbo,2.7,260.0,650.0,884.0
+Taycan Turbo S,2.4,260.0,700.0,952.0
+Taycan Turbo GT with Weissach Package,2.2,305.0,760.0,1034.0
+Taycan Turbo GT,2.3,290.0,760.0,1034.0
+Taycan 4 Cross Turismo,4.7,220.0,320.0,435.0
+Taycan 4S Cross Turismo,3.8,240.0,440.0,598.0
+Taycan Turbo Cross Turismo,2.8,250.0,650.0,884.0
+Panamera,5.3,272.0,260.0,353.0
+Panamera 4 E-Hybrid,4.1,280.0,346.0,470.0
+Panamera 4S E-Hybrid,3.7,290.0,400.0,544.0
+Panamera GTS,3.8,302.0,368.0,500.0
+Panamera Turbo E-Hybrid,3.2,315.0,500.0,680.0
+Panamera Turbo S E-Hybrid,2.9,325.0,575.0,782.0
+Panamera 4 E-Hybrid Executive,4.2,280.0,346.0,470.0
+Macan,6.4,232.0,195.0,265.0
+Macan T,6.2,232.0,195.0,265.0
+Macan S,4.8,259.0,280.0,380.0
+Macan GTS,4.5,272.0,324.0,440.0
+Macan Electric,5.7,220.0,265.0,360.0
+Macan 4 Electric,5.2,220.0,300.0,408.0
+Macan 4S Electric,4.1,240.0,380.0,516.0
+Macan GTS,3.8,250.0,420.0,571.0
+Macan Turbo Electric,3.3,260.0,470.0,639.0
+Cayenne Electric,4.8,230.0,325.0,442.0
+Cayenne S Electric,3.8,250.0,490.0,666.0
+Cayenne Turbo Electric,2.5,260.0,850.0,1156.0
+Cayenne Coupé Electric,4.8,230.0,325.0,442.0
+Cayenne S Coupé Electric,3.8,250.0,490.0,666.0
+Cayenne Turbo Coupé Electric,2.5,260.0,850.0,1156.0
+Cayenne,6.0,248.0,260.0,353.0
+Cayenne Black Edition,6.0,248.0,260.0,353.0
+Cayenne E-Hybrid,4.9,254.0,346.0,470.0
+Cayenne E-Hybrid Black Edition,4.9,254.0,346.0,470.0
+Cayenne S,5.0,273.0,349.0,474.0
+Cayenne S E-Hybrid,4.7,263.0,382.0,519.0
+Cayenne S E-Hybrid Black Edition,4.7,263.0,382.0,519.0
+Cayenne GTS,4.7,275.0,368.0,500.0
+Cayenne Turbo E-Hybrid,3.7,295.0,544.0,739.0
+Cayenne Coupé,5.7,248.0,260.0,353.0
+Cayenne Coupé Black Edition,5.7,248.0,260.0,353.0
+Cayenne E-Hybrid Coupé,4.9,254.0,346.0,470.0
+Cayenne E-Hybrid Coupé Black Edition,4.9,254.0,346.0,470.0
+Cayenne S Coupé,4.7,273.0,349.0,474.0
+Cayenne S E-Hybrid Coupé,4.7,263.0,382.0,519.0
+Cayenne S E-Hybrid Coupé Black Edition,4.7,263.0,382.0,519.0
+Cayenne GTS Coupé,4.4,275.0,368.0,500.0
+Cayenne Turbo E-Hybrid Coupé,3.7,295.0,544.0,739.0
+Cayenne Turbo GT,3.3,305.0,485.0,659.0
